@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dueno-de-mi/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Dueño de mi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dueno-de-mi/) |
+| **Get License** | [License this song: Dueño de mi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dueno-de-mi/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, tú sabes que la noche no miente
+> Cruzaste la disco y subió la corriente
+> Tú tienes el fuego que nubla mi mente
+> Soy el dueño de mí, pero hoy te quiero de frente
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
