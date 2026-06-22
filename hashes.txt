@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Dueño de mi
+
+This log tracks the cryptographic history and versioning for the song **Dueño de mi** (dueno-de-mi).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-22T21:50:20.202392 | `v1` | `4d317bab9544ebb69c0c113488986d5272a34253d194388514baea1d9cc49234` | `6b50f0c8a44db4b8d0a637ac3adc33959f8fd417e65bd809e46591cf69af94be` | `2026-06-22_dueno-de-mi-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

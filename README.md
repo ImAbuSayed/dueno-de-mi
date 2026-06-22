@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dueno-de-mi/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Dueño de mi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dueno-de-mi/) |
+| **Get License** | [Secure Licensing Rights for Dueño de mi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dueno-de-mi/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `4d317bab9544ebb69c0c113488986d5272a34253d194388514baea1d9cc49234` |
 | **Timestamp** | June 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
